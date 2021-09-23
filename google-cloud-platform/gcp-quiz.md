@@ -338,3 +338,12 @@ Note: Free trial doesn't have the organizations.
 - [ ] Analyze machine usage to verify that machines will be on for more that 25% of the time, and verify that sustained use discounts have been automatically applied to your bill.
 - [ ] Analyze machine usage to verify that machines will be on for more than 25% of the time and purchase contained use discounts.
 - [ ] Analyze machine usage to verify that machines will be on for more than 25% of the time and purchase sustained use discounts.
+
+
+#### Q46. You need to Quickly build an application that logs all file uploads to a Cloud Storage bucket. Which service do you select? 
+
+- [ ] Cloud Functions.
+- [ ] Google Compute Engine.
+- [ ] Cloud Run
+- [ ] Google Kubernetes Engine
+
